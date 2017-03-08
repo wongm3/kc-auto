@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from './layout/Header';
 
 const App = () => (
-    <span>
-
-    </span>
+  <span>
+    <Header />
+  </span>
 );
 
 export default App;
